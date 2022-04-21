@@ -39,12 +39,12 @@ In this video, we will create a custom IAM role for our application.
 
 #### Step 2
 In this tutorial, we will create 2 lambda functions (producer.js, consumer.js) & AWS S3 bucket. We will use node js sdk for the development.
-https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=2
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yxzk_o93YSs/0.jpg)](https://www.youtube.com/watch?v=yxzk_o93YSs)
 
 #### Step 3
 Here, we will create kinesis data stream instance & add code to our producer & consumer js.
-https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=3
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ad5Y4xmzMik/0.jpg)](https://www.youtube.com/watch?v=Ad5Y4xmzMik)
 
 #### Step 4
 This is the final step, where we will test our data pipeline & monitor cloudwatch log & kinesis monitoring.
-https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=4
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qlwHXcjBT3w/0.jpg)](https://www.youtube.com/watch?v=qlwHXcjBT3w)
