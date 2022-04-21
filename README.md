@@ -1,4 +1,8 @@
-### AWS S3 bucket to Kinesis data stream using lambda functions
+### Author: Martand Singh
+### facebook: https://www.facebook.com/codemakerz
+### email: martandsays@gmail.com
+
+## AWS S3 bucket to Kinesis data stream using lambda functions
 
 ### Aim
 In this tutorial we will try to implement a basic data pipeline using S3 bucket, lambda functions & kinesis data stream. 
@@ -28,7 +32,9 @@ https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1
 
 
 #### Step 1
-https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=1
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=1)
+
 In this video, we will create a custom IAM role for our application.
 
 #### Step 2
