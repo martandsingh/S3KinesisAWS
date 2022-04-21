@@ -24,7 +24,7 @@ Every time you upload a new file to bucket, lambda function(producer.js) will no
 
 ### Youtube Videos
 #### Playlist
-[![S3 to Kinesis Stream using Lambda Functions](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I"S3 to Kinesis Stream using Lambda Functions")
+https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I
 
 
 #### Step 1
