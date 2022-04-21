@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=8EOS26MqPfU&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1
 
 #### Step 1
 
-https://www.youtube.com/watch?v=Ad5Y4xmzMik&list=PLUD3Fp3WhxlNv0euAsABB3-wZRIzu1o6I&index=1
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8EOS26MqPfU/0.jpg)](https://www.youtube.com/watch?v=8EOS26MqPfU)
 
 In this video, we will create a custom IAM role for our application.
 
